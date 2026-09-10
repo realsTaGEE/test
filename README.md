@@ -10,3 +10,4 @@ jakiś opis
 ```bash
 $ sudo emerge commit
 ```
+To jest projekt
